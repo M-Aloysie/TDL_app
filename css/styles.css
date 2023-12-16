@@ -309,6 +309,10 @@ svg {
   vertical-align: middle;
 }
 
+img #jacky{
+  width: 50px;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
